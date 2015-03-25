@@ -38,19 +38,19 @@ New release with following features:
 * issue 322  More than 5 entry stored in directory download drop-down list
 
 ## Features
-French, German, Danish, Hungarian, Chinese, Polish, Turkish, Russian, Korean, Spanish, Czech, Dutch, Brazilian. translations.
-Supports all or almost all the remote functionality of Transmission.
-Adding torrents by handling .torrent files, drag-n-drop, and browsing.
-Optional add .torrent prompt to choose wanted files and priorities, set destination directory and peer limit.
-Start, stop, remove, delete, recheck, move torrents.
-Authentication support.
-Limiting upload/download/peer/ratio limits globally or for specific torrents. Set alternate global limits for certain times.
-Prioritisation of files and torrents.
-Remotely update the blocklist and test the incoming BitTorrent port.
-Filter by tracker or state.
-Proxy support.
-Minimise/close to tray option, torrent complete/started popup.
-Country of peers displayed by text and flag using GeoIP.
-SSL support.
-Multiple settings profiles.
-More!
+* French, German, Danish, Hungarian, Chinese, Polish, Turkish, Russian, Korean, Spanish, Czech, Dutch, Brazilian. translations.
+* Supports all or almost all the remote functionality of Transmission.
+* Adding torrents by handling .torrent files, drag-n-drop, and browsing.
+* Optional add .torrent prompt to choose wanted files and priorities, set destination directory and peer limit.
+* Start, stop, remove, delete, recheck, move torrents.
+* Authentication support.
+* Limiting upload/download/peer/ratio limits globally or for specific torrents. Set alternate global limits for certain times.
+* Prioritisation of files and torrents.
+* Remotely update the blocklist and test the incoming BitTorrent port.
+* Filter by tracker or state.
+* Proxy support.
+* Minimise/close to tray option, torrent complete/started popup.
+* Country of peers displayed by text and flag using GeoIP.
+* SSL support.
+* Multiple settings profiles.
+* More!
