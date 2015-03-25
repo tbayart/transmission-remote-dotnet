@@ -1,17 +1,17 @@
 # transmission-remote-dotnet
 Automatically exported from code.google.com/p/transmission-remote-dotnet
 
-# About
+## About
 transmission-remote-dotnet is a Windows remote client to the RPC interface of transmission-daemon, which is part of the Transmission BitTorrent client. The application is quite like µTorrent in appearance and currently supports almost all the RPC specification.
 
-# transmission-remote-dotnet 3.24.3 (12/11/11)
+## transmission-remote-dotnet 3.24.3 (12/11/11)
 Fixed tracker filter issue
 Updated geoip database
-# transmission-remote-dotnet 3.24.2 (19/10/11)
+## transmission-remote-dotnet 3.24.2 (19/10/11)
 Fixed two issue at new Transmission
-# transmission-remote-dotnet 3.24.1 (17/10/11)
+## transmission-remote-dotnet 3.24.1 (17/10/11)
 Add support to new Transmission (>2.40)
-# transmission-remote-dotnet 3.24 (13/12/10)
+## transmission-remote-dotnet 3.24 (13/12/10)
 New release with following features:
 
 * issue 71 	Enhancement idea: RSS
@@ -37,7 +37,7 @@ New release with following features:
 * issue 299  Double-Click to Launch/Preview
 * issue 322  More than 5 entry stored in directory download drop-down list
 
-# Features
+## Features
 French, German, Danish, Hungarian, Chinese, Polish, Turkish, Russian, Korean, Spanish, Czech, Dutch, Brazilian. translations.
 Supports all or almost all the remote functionality of Transmission.
 Adding torrents by handling .torrent files, drag-n-drop, and browsing.
